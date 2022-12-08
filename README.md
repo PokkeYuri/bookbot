@@ -1,3 +1,7 @@
 # bookbot
 
-BookBot is my first git project!
+Hello Everybody
+
+Here my Python Starter Projekt for Boot.dev
+
+Have a nice Day!
