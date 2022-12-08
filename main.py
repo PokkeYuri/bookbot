@@ -31,7 +31,6 @@ def print_char_dict_report(char_dict, word_count, filepath):
     for key, value in char_dict.items():
         char_list.append([key, value])
     char_list.sort()
-
     print(f"--- Begin report of {filepath} ---")
     print(f"{word_count} words found in the document\n")
     for char_count in char_list:
